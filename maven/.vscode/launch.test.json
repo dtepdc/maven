@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "gs-maven",
+                "projectName": "gs-maven",
+                "workingDirectory": "c:\\Users\\dtepper\\Documents\\projects\\maven",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "gs-maven",
+                "projectName": "gs-maven",
+                "workingDirectory": "c:\\Users\\dtepper\\Documents\\projects\\maven",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

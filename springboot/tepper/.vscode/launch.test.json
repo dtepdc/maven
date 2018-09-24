@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "tepper",
+                "projectName": "tepper",
+                "workingDirectory": "c:\\Users\\dtepper\\Documents\\projects\\springboot\\tepper",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "tepper",
+                "projectName": "tepper",
+                "workingDirectory": "c:\\Users\\dtepper\\Documents\\projects\\springboot\\tepper",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
